@@ -46,7 +46,7 @@ const Footer = () => {
         </span>
         <span className="mx-1 text-sm text-white underline">
           <a href="https://ithriveonwisdom.com/" target="_blank" className="text-white">
-            Powered by Thriveon
+            Powered by Bright Star Golden Empire
           </a>
         </span>
       </ul>
