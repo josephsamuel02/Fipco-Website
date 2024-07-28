@@ -1,6 +1,8 @@
+import Footer from "../../components/footer";
 import Nav from "../../components/nav";
 import About from "./About";
 import Banner from "./Banner";
+import OurProducts from "./OurProducts";
 import OurServices from "./OurServices";
 import OurTeam from "./OurTeam";
 import Services from "./Services";
@@ -16,7 +18,8 @@ const LandingPage: React.FC = () => {
       <About />
       <WhatWeDo />
       <OurServices />
-      {/*  <Footer /> */}
+      <OurProducts />
+      <Footer />
     </>
   );
 };

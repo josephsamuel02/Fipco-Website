@@ -32,7 +32,7 @@ export default withMT({
         bg0: "url('/images/banner1.jpg')",
         bg1: "url('/images/staff-bg.jpeg')",
         bg2: "url('/images/refinery.svg')",
-        pillows: "url('/img/pillowas.jpg')",
+        bg3: "url('/img/bg white.svg')",
         counselling_bg: "url('/img/reaching out.png')",
       },
       colors: {

@@ -30,7 +30,7 @@ const Services = () => {
               className="h-[320px] w-[180px] object-cover rounded-t-full rounded-b-full"
             />
             <h2 className="text-lg font-bold text-center flex flex-col">
-              <span className="text-[#2D2D72]">{d.title_1} </span>{" "}
+              <span className="text-[#2D2D72]">{d.title_1} </span>
               <span className="text-Red">{d.title_2} </span>
             </h2>
           </div>
@@ -41,7 +41,7 @@ const Services = () => {
         target="_blank"
         className="mx-auto mt-10 px-5  py-4 w-2/5 text-center text-white text-2xl rounded-full bg-Red hover:bg-black bg-gradient-to-r from-black hover:from-Red transition-colors shadow-md"
       >
-        Shop Now{" "}
+        Shop Now
       </a>
     </div>
   );
